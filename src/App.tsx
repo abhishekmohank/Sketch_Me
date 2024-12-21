@@ -426,3 +426,6 @@ export default function App() {
     </div>
   );
 }
+
+
+// abisk has the all rights reserved for this code.
