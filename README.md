@@ -19,5 +19,4 @@ It a drawing platform with React and TypeScript, and Rough.js is used for the sk
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
-# Demo
-[Demolink](Demo)
+NB ; Inspired from Excalidraw🐰
